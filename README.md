@@ -1,5 +1,5 @@
 # natural-language-processing-fall23
- This repo includes the homeworks I've done for NLP course in fall 2023 semester
+ This repo includes the homeworks I've done for NLP course in fall 2023 semester taught by Dr Ehsaneddin Asgari.
 
 # Home work 1
  In this homework, we were supposed to gather the data by ourselves.
