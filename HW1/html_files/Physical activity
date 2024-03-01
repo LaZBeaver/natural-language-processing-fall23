@@ -1,0 +1,1426 @@
+ <!DOCTYPE html> <html lang="en"> <head>  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	Physical activity
+</title> <link rel="shortcut icon" href="/favicon.ico"> <link rel="manifest" href="/manifest.json"> <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"> <meta name="theme-color" content="#007eb4" /> <link rel="preconnect" href="https://fonts.googleapis.com" /> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> <link rel="preconnect" href="https://use.fontawesome.com" crossorigin /> <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" /> <link rel="dns-prefetch" href="https://kendo.cdn.telerik.com" /> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js"> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js"> <link rel="preconnect" href="https://cdn.who.int" /> <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> <link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" type="text/css" /> <link rel="stylesheet" href="/ResourcePackages/WHO/assets/dist/styles/grid.min.css?v=14.0.7729.22131">  <link rel="stylesheet" href="/ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=14.0.7729.22131"><link rel="stylesheet" href="/ResourcePackages/WHO/assets/dist/styles/main.min.css?v=14.0.7729.22131"> <link rel="stylesheet" href="/ResourcePackages/WHO/assets/dist/styles/print.min.css?v=14.0.7729.22131" media="print">
+<script>
+                var lang = document.documentElement.lang; 
+                window.dataLayer = window.dataLayer || []; 
+                window.dataLayer.push({'language': lang });
+                window.dataLayer.push({
+  "pagetype": "factsheet",
+  "targetaudience": "general-audience",
+  "targetcountry": "global",
+  "publishingoffice": "who-headquarters-(hq)",
+  "healthtopic": "Physicalactivity"
+});</script> <script>
+                    (function() {
+                    function deleteCookie(cookieName,domain) {
+                        document.cookie = cookieName + '=;expires=Mon Jan 01 1900 00:00:00 ; path=/; domain=' + domain;
+                    }
+                    function loadAndTrack(canTrack) {
+                        if (!canTrack) {
+                            var domain = location.hostname.replace(/^www\./i, '.');
+                            //GA
+                            deleteCookie('_ga', domain);
+                            deleteCookie('_gat', domain);
+                            deleteCookie('_gid', domain);
+                            //Clarity
+                            deleteCookie('_clck', domain);
+                            deleteCookie('_clsk', domain);
+                            //Google Adsense
+                            deleteCookie('_gcl_au', domain);
+                        }
+                        else{
+                            //Fire GTM
+                            //Google Tag Manager
+                                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                })(window,document,'script','dataLayer','GTM-5QFSQRT');
+                            //End Google Tag Manager
+                        }
+                        return;
+                    }
+
+                    if (window.TrackingConsentManager) {
+                        TrackingConsentManager.addEventListener('ConsentChanged', loadAndTrack);
+                        loadAndTrack(TrackingConsentManager.canTrackCurrentUser());
+                    }
+                    else {
+                        loadAndTrack(true);
+                    }
+                    })();
+                </script><meta property="og:locale" content="en_US" /><meta property="og:title" content="Physical activity" /><meta property="og:description" content="Insufficient physical activity is a key risk factor for noncommunicable diseases (NCDs) such as cardiovascular diseases, cancer and diabetes." /><style type="text/css" media="all">.embed-responsive {
+position: relative;
+display: block;
+height: 0;
+padding: 0;
+overflow: hidden;
+}
+.embed-responsive .embed-responsive-item,
+.embed-responsive iframe,
+.embed-responsive embed,
+.embed-responsive object,
+.embed-responsive video {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+.embed-responsive-21by9 {
+padding-bottom: 42.85714%;
+}
+.embed-responsive-16by9 {
+padding-bottom: 56.25%;
+}
+.embed-responsive-4by3 {
+padding-bottom: 75%;
+}
+.embed-responsive-1by1 {
+padding-bottom: 100%;
+}</style><style type="text/css" media="all">#language-selector-item-details {display:block;}
+#language-selector-item-details .button {margin: 6px 0;}
+#language-selector-item-details .button {margin-right: 12px; margin-left:0;}
+[lang="ar"] #language-selector-item-details .button {margin-right: 0; margin-left:12px;}
+#language-selector-item-details .button a {font-size:14px; font-weight:700; line-height:16px;padding:12px 12px;}
+#language-selector-item-details .button.button-blue-border { border-color:#008dc9; background-color: #fff; color: #008dc9; }
+#language-selector-item-details .button.button-blue-border:hover { border-color:#008dc9; background-color:#008dc9; color: #fff; }</style><style type="text/css" media="all">.row-flex{display:flex;flex-direction:row}.row-flex .card{flex-grow:1}.row-flex .sf_colsIn{display:flex;flex-direction:column;flex-grow:1}.row-flex .card__content-group{display:flex;flex-direction:column;flex-grow:1}.row-flex .card__content{display:flex;flex-grow:1}.qa-details__content .sf-accordion__content p a{outline:0;color:var(--l2-neutralForegroundRest);border-bottom:1px solid var(--l2-neutralForegroundRest);text-decoration:none}.qa-details__content .sf-accordion__content p a:focus{outline:0;color:var(--l2-accentFillHover);background-color:var(--l2-neutralFillStealthHover);border-bottom:3px solid var(--l2-neutralFocus);text-decoration:none}.qa-details__content .sf-accordion__content p a:hover{outline:0;color:var(--l2-neutralForegroundRest);background-color:var(--l2-neutralFillStealthHover);border-bottom:3px solid var(--l2-neutralFocus);text-decoration:none}.mdc-card.mdc-card--background .card-media--item{background:0 0;background:linear-gradient(180deg,rgba(255,255,255,0) 0,rgba(0,0,0,.5) 25%,#000 100%)}.mdc-card.mdc-card--background a .item--title,.mdc-card.mdc-card--background a:active .item--title,.mdc-card.mdc-card--background a:focus .item--title,.mdc-card.mdc-card--background a:hover .item--title{text-decoration:none}.mdc-card a:visited .item--title,.mdc-card.mdc-card--background .item--title{color:#fff}.card--solid.bg-dark:hover{color:#fff;background-color:#20313b;border:2px solid #fff}.card--solid.bg-dark a{color:#fff;background-color:#20313b;border:2px solid #20313b}.card--solid.bg-dark a:hover{color:#20313b;background-color:#fff;border:2px solid #20313b}.card--solid.bg-dark:focus-within{color:#fff;background-color:#20313b;border:2px solid var(--l4-neutralFocus)}.mdc-card a .item--title,.mdc-card a:visited .item--title{color:var(--l4-neutralForegroundRest)}.mdc-card a:visited .item--title{color:var(--l4-neutralForegroundRest)!important}.-sf-integrated-app body,.sfPageContainer .RadDock .rdContent a.sfAddContentLnk,.zeContentMode .sfPageContainer .RadDock .rdContent,.zeLayoutMode .sfPageContainer .RadDock .rdContent,.zeSettingsMode .sfPageContainer .RadDock .rdContent,.zeThemesMode .sfPageContainer .RadDock .rdContent{font-family:Arial,Verdana,sans-serif!important}#navigationToScrape .content-block a,.alphabetical-nav--list .alphabetical-nav--list-item a,.alphabetical-nav--list a,.nav--list a{text-decoration:none!important}.sf-events-wrapper .vertical-list-item:focus,.sf-events-wrapper .vertical-list-item:focus-within{outline:2px solid var(--l4-neutralFocus)!important}.sf-events-wrapper .vertical-list-item a:focus-within,.sf-events-wrapper .vertical-list-item:focus{outline:0}.top-header li.active>a,.top-header li.open>a,.top-header li.selected>a,.top-header li:hover>a{background-color:var(--d-l4-accentFillHover)}
+.webinars-listing .sf-multimedia-item__container {
+    aspect-ratio: 16/9;
+    width: 100%;
+    height: auto !important;
+    min-height: 304px;
+}
+
+.webinar-episodes.vertical-list .vertical-list-item .thumb {
+    min-height: 131px;
+    aspect-ratio: 16/9;
+    height: auto;
+    width: 100%;
+}
+
+@media screen and (max-width:768px) {
+    .webinar-episodes.vertical-list .vertical-list-item .thumb {display:none;}
+    
+}
+
+.webinar-episodes-details .sf-multimedia-item__container {
+    height: 390px;
+    aspect-ratio: 16/9;
+    height: auto;
+}
+
+.mdc-card--background a:visited .item--title {
+    color: #fff!important;
+}</style><style type="text/css" media="all">@media (min-width: 1020px) {
+.row.flex-ar {display: flex;flex-direction: row;align-content: stretch;}
+.row.flex-ar .sf_colsIn.col-sm-6.col-md-3{display:flex;flex-grow:1;;margin-bottom:2em;}
+    }
+.flex-ar img.mdc-card__media--4-3 {
+    aspect-ratio: 1/1;
+}</style><meta name="twitter:card" content="summary_large_image" /><meta name="Generator" content="Sitefinity 14.3.8026.0 DX" /><link rel="canonical" href="https://www.who.int/news-room/fact-sheets/detail/physical-activity" /><meta name="description" content="WHO fact sheet on physical activity provides key facts and information on benefits, risks of inactivity, reasons for physical inactivity and how to increase physical activity, WHO response." /></head> <body class="sf-body "> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script src="/ScriptResource.axd?d=okuX3IVIBwfJlfEQK32K3l5K7YGiATb30h89J0olbNMeAyOtdYE6_Exv9Bd_ta2_XSFvjotxKLnlt9vcM6Kg3aKCXjsPLAfc02HCCEnrn0StjUGoNmpcNHr0Q7qewBsI-wQmYIVPg1mLq03jlrRY4M-hzwvjWouuBv3ehropIpydPBUR0&amp;t=ffffffff95aba61f" type="text/javascript"></script><script src="/ScriptResource.axd?d=ePnjFy9PuY6CB3GWMX-b_9dUqj_iyHKbtZiYzX__OhcBoGTfz1BCLaN4h7Fbajcqvr0jzshQTloWygrPD-ACaSqbbnMU2RjynHKyNq228hugZnvpXRMVXdY9OyDF4Ewext63iLJGrHIt24Ious-uCOclPLq5lpYk7ok9AjUyDR56hxVu0&amp;t=ffffffff95aba61f" type="text/javascript"></script><script src="/ScriptResource.axd?d=2z9h4-hKx8Yk1hygmet7pjkFguWG8Z1Fhnuod_CvCHCExwAB9TmazYiwtnNc8_PE_sQ84nrSkjqY9EALBnpl3lcKaF9OEQUFbopzQYCfhpJXDQLR-yvNY8t812iM5Aejg6fxAEzrTW8MI2owx-zl9SrMG73lcKP32vb5eFgX02xyZpHf0&amp;t=ffffffff95aba61f" type="text/javascript"></script> <div class="sf-main-site main-site main">   <header> <div id="sf-top-header" class="sf-top-header top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+<div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation">
+<div id="sf-geo-navigation-container">
+<nav class="sf-geo-navigation">
+<ul class="sf-primary-geo-navigation">
+<li class="active sf-no-logo">
+<a href="https://www.who.int/" class="mobile nav-logo">
+<img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue.svg?sfvrsn=aaed4f35_20" alt="World Health Organization" />
+</a>
+<a href="https://www.who.int/" class="desktop">Global</a>
+</li>
+<li class=" has-children">
+<a href="#">Regions</a>
+<div class="sf-secondary-geo-navigation-container">
+<div class="sf-secondary-geo-navigation-wrapper">
+<div class="sf-geo-navigation-title">
+<div class="nav-header">
+<span class="nav-logo">
+<img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue.svg?sfvrsn=aaed4f35_20" alt="World Health Organization" />
+</span>
+<span class="nav-title">WHO Regional websites</span>
+<div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+</div>
+</div>
+<ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-region row">
+<li class=" col-md-4">
+<a href="https://www.afro.who.int/">
+<img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/africa.png?sfvrsn=3204f957_18" alt="Africa" />
+<span>Africa</span>
+</a>
+</li>
+<li class=" col-md-4">
+<a href="https://www.paho.org/hq/index.php?lang=en">
+<img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/americas.png?sfvrsn=9efd6df3_18" alt="Americas" />
+<span>Americas</span>
+</a>
+</li>
+<li class=" col-md-4">
+<a href="https://www.who.int/southeastasia">
+<img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/south-east-asia.png?sfvrsn=68e76dc2_16" alt="South-East Asia" />
+<span>South-East Asia</span>
+</a>
+</li>
+<li class=" col-md-4">
+<a href="https://www.who.int/europe/">
+<img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/europe.png?sfvrsn=c7d5c5a5_18" alt="Europe" />
+<span>Europe</span>
+</a>
+</li>
+<li class=" col-md-4">
+<a href="http://www.emro.who.int/index.html">
+<img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/eastern-mediterranean.png?sfvrsn=71211e18_16" alt="Eastern Mediterranean" />
+<span>Eastern Mediterranean</span>
+</a>
+</li>
+<li class=" col-md-4">
+<a href="https://www.who.int/westernpacific/">
+<img class="lazy-navigation-icons" data-src="/images/default-source/fallback/maps/western-pacific.png?sfvrsn=88cbdcd5_16" alt="Western Pacific" />
+<span>Western Pacific</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+</div> <div class="sf_colsIn col-md-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search" role="search">  
+<div class="form-inline">
+<div class="form-group sf-search-input-wrapper" role="search">
+<div class="srchaction-wrapper">
+<span class="srchaction">
+<i id="a407212f-3374-43ca-8341-8cd615d3a331" class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+</span>
+<input type="search" title="Search input" placeholder="Search" id="9f0856e4-554d-4905-80f1-7c474147736c" class="form-control" value aria-autocomplete="both" aria-describedby="SearchInfo-1" />
+</div>
+
+<span class="srchtoggle">
+<i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+</span>
+
+<span id="SearchInfo-1" aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+</div>
+<input type="hidden" data-sf-role="resultsUrl" value="/home/search" />
+<input type="hidden" data-sf-role="indexCatalogue" value="genericsearchindex1" />
+<input type="hidden" data-sf-role="wordsMode" value="AnyWord" />
+<input type="hidden" data-sf-role="disableSuggestions" value="true" />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="en" />
+<input type="hidden" data-sf-role="siteId" value="15210d59-ad60-47ff-a542-7ed76645f0c7" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value="#9f0856e4-554d-4905-80f1-7c474147736c" />
+<input type="hidden" data-sf-role="searchButtonId" value="#a407212f-3374-43ca-8341-8cd615d3a331" />
+</div>
+<div class="dd sf-lang-selector language-selector">
+<i class="fas fa-language"></i>
+<label for="language-selector">
+Select language
+</label>
+<select onChange="openLink(value)" id="language-selector" name="language-selector">
+<option disabled selected>Select language</option>
+<option value="en" class="selected">English</option>
+<option value="ar">العربية</option>
+<option value="zh">中文</option>
+<option value="fr">Fran&#231;ais</option>
+<option value="ru">Русский</option>
+<option value="es">Espa&#241;ol</option>
+</select>
+<i class="fas fa-angle-down"></i>
+</div>
+<style>
+li.slicknav_addition.sf-lang-selector{width:100%;position:relative}li.slicknav_addition.sf-lang-selector select{min-width:100%}#search-form label{visibility:hidden}.language-selector label{width:0!important;height:0;display:inline-block;overflow:hidden}
+</style>
+</div> </div> </div> </div>  <div id="sf-main-header" class="main-header"> <div class="container"> <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-12" data-sf-element="Logos" data-placeholder-label="Logos Geo Navigation">
+<div class="header-logo logos-container"> <a href="/" title="Home" class="primary-logo"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg" alt="Home" class="logo svg" /> </a> </div> </div> </div> </div>
+<div class="row" data-sf-element="Row">
+<div id="MainHeader_TEC2026FA002_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+</div>
+<div id="MainHeader_TEC2026FA002_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+</div>
+<div id="MainHeader_TEC2026FA002_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+</div>
+<div id="MainHeader_TEC2026FA002_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+</div>
+</div>
+</div>  <div id="navigationToScrape" class="navigation" role="navigation">
+<div class="row navWrapper" data-sf-element="Row">
+<div class="nav-container">
+
+<ul class="nav"></ul>
+
+</div>
+<ul class="nav-mobile"></ul>
+<div id="Navigation_TD9F2A204024_Col00" class="sf_colsIn col-md-12" data-sf-element="Menu Wrapper" data-placeholder-label="Menu Wrapper"><div class="navItemLayout navHomeItemLayout">
+<div id="Navigation_TD9F2A204025_Col00" class="sf_colsIn col-md-12 navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+<ul class="main-navigation">
+<li class><a href="/" target="_self">Home</a></li>
+</ul>
+</nav>
+</div>
+<div class="container">
+<div class="row">
+<div id="Navigation_TD9F2A204025_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"></div>
+</div>
+</div>
+</div>
+<div class="navItemLayout">
+<div id="Navigation_TD9F2A204029_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+<ul class="main-navigation">
+<li class><a href="/redirect-pages/mega-menu/health-topics" target="_self">Health Topics</a></li>
+</ul>
+</nav>
+</div>
+<div class="container">
+<div class="row">
+<div id="Navigation_TD9F2A204029_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+<div id="Navigation_T75121FDA161_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204114_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+<div class="sf-content-block content-block">
+<div><ul><li><a href="/health-topics/" data-sf-ec-immutable data-sf-marked>All topics</a></li><li><a href="/health-topics/#A" data-sf-ec-immutable>A</a></li><li><a href="/health-topics/#B" data-sf-ec-immutable>B</a></li><li><a href="/health-topics/#C" data-sf-ec-immutable>C</a></li><li><a href="/health-topics/#D" data-sf-ec-immutable>D</a></li><li><a href="/health-topics/#E" data-sf-ec-immutable>E</a></li><li><a href="/health-topics/#F" data-sf-ec-immutable>F</a></li><li><a href="/health-topics/#G" data-sf-ec-immutable>G</a></li><li><a href="/health-topics/#H" data-sf-ec-immutable>H</a></li><li><a href="/health-topics/#I" data-sf-ec-immutable>I</a></li><li><a href="/health-topics/#J" data-sf-ec-immutable>J</a></li><li><a href="/health-topics/#K" data-sf-ec-immutable>K</a></li><li><a href="/health-topics/#L" data-sf-ec-immutable>L</a></li><li><a href="/health-topics/#M" data-sf-ec-immutable>M</a></li><li><a href="/health-topics/#N" data-sf-ec-immutable>N</a></li><li><a href="/health-topics/#O" data-sf-ec-immutable>O</a></li><li><a href="/health-topics/#P" data-sf-ec-immutable>P</a></li><li><a href="/health-topics/#Q" data-sf-ec-immutable>Q</a></li><li><a href="/health-topics/#R" data-sf-ec-immutable>R</a></li><li><a href="/health-topics/#S" data-sf-ec-immutable>S</a></li><li><a href="/health-topics/#T" data-sf-ec-immutable>T</a></li><li><a href="/health-topics/#U" data-sf-ec-immutable>U</a></li><li><a href="/health-topics/#V" data-sf-ec-immutable>V</a></li><li><a href="/health-topics/#W" data-sf-ec-immutable>W</a></li><li><a href="/health-topics/#X" data-sf-ec-immutable>X</a></li><li><a href="/health-topics/#Y" data-sf-ec-immutable>Y</a></li><li><a href="/health-topics/#Z" data-sf-ec-immutable>Z</a></li></ul></div>
+</div>
+</div>
+</div>
+<div id="Navigation_T75121FDA161_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/resources" target="_self">Resources</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/resources/fact-sheets" target="_self">Fact sheets</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/resources/facts-in-pictures" target="_self">Facts in pictures</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/resources/multimedia" target="_self">Multimedia</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/resources/publications" target="_self">Publications</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/resources/questions-answers" target="_self">Questions and answers</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/resources/tools-and-toolkits" target="_self">Tools and toolkits</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_T75121FDA161_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/popular" target="_self">Popular</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/popular/coronavirus-disease-(covid-19)" target="_self">COVID-19</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/popular/dengue" target="_self">Dengue</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/popular/herpes" target="_self">Herpes</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/popular/hypertension" target="_self">Hypertension</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/popular/mental-disorders" target="_self">Mental disorders</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/health-topics/popular/top-10-causes-of-death" target="_self">Top 10 causes of death</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_T75121FDA161_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navItemLayout">
+<div id="Navigation_TD9F2A204027_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+<ul class="main-navigation">
+<li class><a href="/redirect-pages/mega-menu/countries" target="_self">Countries</a></li>
+</ul>
+</nav>
+</div>
+<div class="container">
+<div class="row">
+<div id="Navigation_TD9F2A204027_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+<div id="Navigation_TD9F2A204039_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204043_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+<div class="sf-content-block content-block">
+<div><ul><li><a href="/countries/" data-sf-ec-immutable data-sf-marked>All countries</a></li><li><a href="/countries/#A" data-sf-ec-immutable>A</a></li><li><a href="/countries/#B" data-sf-ec-immutable>B</a></li><li><a href="/countries/#C" data-sf-ec-immutable>C</a></li><li><a href="/countries/#D" data-sf-ec-immutable>D</a></li><li><a href="/countries/#E" data-sf-ec-immutable>E</a></li><li><a href="/countries/#F" data-sf-ec-immutable>F</a></li><li><a href="/countries/#G" data-sf-ec-immutable>G</a></li><li><a href="/countries/#H" data-sf-ec-immutable>H</a></li><li><a href="/countries/#I" data-sf-ec-immutable>I</a></li><li><a href="/countries/#J" data-sf-ec-immutable>J</a></li><li><a href="/countries/#K " data-sf-ec-immutable>K</a></li><li><a href="/countries/#L " data-sf-ec-immutable>L</a></li><li><a href="/countries/#M " data-sf-ec-immutable>M</a></li><li><a href="/countries/#N " data-sf-ec-immutable>N</a></li><li><a href="/countries/#O " data-sf-ec-immutable>O</a></li><li><a href="/countries/#P " data-sf-ec-immutable>P</a></li><li><a href="/countries/#Q " data-sf-ec-immutable>Q</a></li><li><a href="/countries/#R " data-sf-ec-immutable>R</a></li><li><a href="/countries/#S " data-sf-ec-immutable>S</a></li><li><a href="/countries/#T " data-sf-ec-immutable>T</a></li><li><a href="/countries/#U " data-sf-ec-immutable>U</a></li><li><a href="/countries/#V " data-sf-ec-immutable>V</a></li><li><a href="/countries/#W " data-sf-ec-immutable>W</a></li><li><a href="/countries/#X " data-sf-ec-immutable>X</a></li><li><a href="/countries/#Y " data-sf-ec-immutable>Y</a></li><li><a href="/countries/#Z " data-sf-ec-immutable>Z</a></li></ul></div>
+</div>
+</div>
+</div>
+<div id="Navigation_TD9F2A204039_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/countries/regions" target="_self">Regions</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/countries/regions/africa" target="_self">Africa</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/countries/regions/americas" target="_self">Americas</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/countries/regions/south-east-asia" target="_self">South-East Asia</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/countries/regions/europe" target="_self">Europe</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/countries/regions/eastern-mediterranean" target="_self">Eastern Mediterranean</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/countries/regions/western-pacific" target="_self">Western Pacific</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204039_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/countries/who-in-countries" target="_self">WHO in countries</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/countries/who-in-countries/cooperation-strategies" target="_self">Cooperation strategies</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/countries/who-in-countries/data-by-country" target="_self">Data by country</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/countries/who-in-countries/data-statistics" target="_self">Statistics</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204039_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navItemLayout">
+<div id="Navigation_TD9F2A204028_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+<ul class="main-navigation">
+<li class="active"><a href="/news-room" target="_self">Newsroom</a></li>
+</ul>
+</nav>
+</div>
+<div class="container">
+<div class="row">
+<div id="Navigation_TD9F2A204028_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+<div id="Navigation_TD9F2A204038_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news" target="_self">All news</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/releases" target="_self">News releases</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/statements" target="_self">Statements</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/campaigns" target="_self">Campaigns</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/events" target="_self">Events</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/feature-stories" target="_self">Feature stories</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/speecheshub" target="_self">Speeches</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/commentaries" target="_self">Commentaries</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/news/all-news/photo-library" target="_blank">Photo library</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204038_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="sf-content-block content-block">
+<div><ul><li><a href="/news-room/headlines">Headlines</a></li></ul></div>
+</div>
+<div id="listView" class="vertical-list"></div>
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="vertical-list-item">
+        <div class="info">
+            <a href="https://www.who.int/news/item#:ItemDefaultUrl #" aria-label="#: Title #" role="link">
+                <p class="heading">#: Title #</p>
+            </a>
+            <div class="date">
+                <span class="timestamp">#: FormatedDate #</span>
+                <div class="sf-tags-list">
+                    <div class="sf-tags-list-item">#: NewsType #</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    window.onload = function () {
+        var remoteDataSource = new kendo.data.DataSource({
+            type: "odata-v4",
+            transport: {
+                read: "/api/news/newsitems?sf_provider=OpenAccessDataProvider&sf_culture=en&$top=3&$orderby=PublicationDateAndTime%20desc&$select=Title,ItemDefaultUrl,FormatedDate,NewsType&$filter=publishingoffices/any(s:s eq df302c0e-1f59-4efb-b276-d154122d3760)"
+            }
+        });
+        $("#listView").kendoListView({
+            dataSource: remoteDataSource,
+            pageable: true,
+            template: kendo.template($("#template").html()),
+            dataBound: function () {
+                this.wrapper.removeClass("k-widget");
+                this.wrapper.removeClass("k-listview");
+            }
+        });
+    };
+</script>
+</div>
+<div id="Navigation_TD9F2A204038_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navItemLayout">
+<div id="Navigation_TD9F2A204040_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+<ul class="main-navigation">
+<li class><a href="/redirect-pages/mega-menu/emergencies" target="_self">Emergencies</a></li>
+</ul>
+</nav>
+</div>
+<div class="container">
+<div class="row">
+<div id="Navigation_TD9F2A204040_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+<div id="Navigation_TD9F2A204090_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/emergencies" target="_self">Focus on</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/emergencies/afghanistan-crisis" target="_self">Afghanistan</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/emergencies/cholera" target="_self">Cholera&#160;</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/emergencies/greater-horn-of-africa-crisis" target="_self">Greater Horn of Africa</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/emergencies/sudan" target="_self">Sudan</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/emergencies/ukraine-emergency" target="_self">Ukraine</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204090_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/news" target="_self">Latest</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/news/disease-outbreak-news" target="_self">Disease Outbreak News</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/news/situation-reports" target="_self">Situation reports</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/news/weekly-epidemiological-record" target="_self">Weekly Epidemiological Record</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204090_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies" target="_self">WHO in emergencies</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/surveillance" target="_self">Surveillance</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/operations" target="_self">Operations</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/research-development" target="_self">Research</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/funding" target="_self">Funding</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/partners" target="_self">Partners</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/who-s-health-emergency-appeal-2023" target="_self">Health emergency appeal</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/international-health-regulations" target="_self">International Health Regulations</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/emergencies/who-in-emergencies/independent-oversight-and-advisory--committee" target="_self">Independent Oversight and Advisory Committee</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204090_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navItemLayout">
+<div id="Navigation_T75121FDA215_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+<ul class="main-navigation">
+<li class><a href="/redirect-pages/mega-menu/data" target="_self">Data</a></li>
+</ul>
+</nav>
+</div>
+<div class="container">
+<div class="row">
+<div id="Navigation_T75121FDA215_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+<div id="Navigation_T75121FDA217_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/data/data-at-who" target="_self">Data at WHO</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/data/data-at-who/classifications" target="_self">Classifications</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/data-at-who/global-healthestimates" target="_self">Global Health Estimates</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/data-at-who/health-sdgs" target="_self">Health SDGs</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/data-at-who/mortality-database" target="_self">Mortality Database</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/data-at-who/data-collections" target="_self">Data collections</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_T75121FDA217_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/data/dashboards" target="_self">Dashboards</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/data/dashboards/covid-19-dashboard" target="_self">COVID-19 Dashboard</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/dashboards/health-inequality-monitor" target="_self">Health Inequality Monitor</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/dashboards/triple-billiondashboard" target="_self">Triple Billion Dashboard</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_T75121FDA217_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/data/highlights" target="_self">Highlights</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/data/highlights/gho" target="_self">Global Health Observatory</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/highlights/score" target="_self">SCORE</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/highlights/insights-and-visualizations" target="_self">Insights and visualizations</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/highlights/data-collection-tools" target="_self">Data collection tools</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_T75121FDA217_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/data/reports" target="_self">Reports</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/data/reports/world-health-statistics-2022" target="_self">World Health Statistics 2022</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/data/reports/covid-excess-deaths" target="_self">COVID excess deaths</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navItemLayout">
+<div id="Navigation_TD9F2A204026_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+<ul class="main-navigation">
+<li class><a href="/redirect-pages/mega-menu/about-us" target="_self">About WHO</a></li>
+</ul>
+</nav>
+</div>
+<div class="container">
+<div class="row">
+<div id="Navigation_TD9F2A204026_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+<div id="Navigation_TD9F2A204035_Col00" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/about" target="_self">About WHO</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/about/who-we-are" target="_self">Who we are</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/about/structure" target="_self">Organizational structure</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/about/teams" target="_self">Technical teams</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/about/collaborating-centres" target="_self">Collaborating centres</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/about/expert-groups" target="_self">Committees and advisory groups</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/about/partnerships-and-collaboration" target="_self">Partnerships</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204035_Col01" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/our--work" target="_self">Our work</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/our--work/activities" target="_self">Activities</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/our--work/general-programme-of-work" target="_self">General Programme of Work</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/our--work/who-academy" target="_self">WHO Academy</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/our--work/initiatives" target="_self">Initiatives</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204035_Col02" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/who-funding" target="_self">Funding&#160;</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/who-funding/investment-case" target="_self">Investment case</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/who-funding/who-foundation" target="_blank">WHO Foundation</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/accountability" target="_self">Accountability</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/accountability/audit" target="_self">Audit</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/accountability/budget" target="_self">Programme budget</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/accountability/financial--statements" target="_self">Financial statements</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/accountability/results-report" target="_self">Results Report</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Navigation_TD9F2A204035_Col03" class="sf_colsIn col-sm-6 col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/governance" target="_self">Governance</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/governance/world-health-assembly" target="_self">World Health Assembly</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/governance/executive-board" target="_self">Executive Board</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/governance/member-states-portal" target="_self">Member States Portal</a>
+</li>
+<li class>
+<a href="/redirect-pages/mega-menu/about-us/governance/governing-bodies-website" target="_blank">Governing Bodies website</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </header>   <section class="sf-content content" role="main">
+<div id="PageContent_TA51A0481002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+
+<div>
+<ul class="sf-breadscrumb breadcrumb">
+<li><a href="/">Home</a><span>/</span></li>
+<li><a href="/news-room">Newsroom</a><span>/</span></li>
+<li><a href="/news-room/fact-sheets">Fact sheets</a><span>/</span></li>
+<li><a href="/news-room/fact-sheets/detail">Detail</a><span>/</span></li>
+<li class="active">Physical activity</li>
+</ul>
+</div>
+
+<script type="application/ld+json">
+    {"itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.who.int","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.who.int/news-room","name":"Newsroom"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.who.int/news-room/fact-sheets","name":"Fact sheets"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.who.int/news-room/fact-sheets/detail","name":"Detail"}},{"@type":"ListItem","position":5,"item":{"@id":"","name":"Physical activity"}}],"itemListOrder":"ItemListOrderAscending","@context":"http://schema.org","@type":"BreadcrumbList"}
+</script>
+</div>
+<div class="row" data-sf-element="Row">
+<div id="PageContent_TA51A0481001_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Body content"><div id="PageContent_T0643CD2A001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+<div id="PageContent_T0643CD2A002_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Images">
+</div>
+</div>
+<div class="row" data-sf-element="Row">
+<div id="PageContent_T0643CD2A006_Col00" class="sf_colsIn col-md-1" data-sf-element="Column 1" data-placeholder-label="Column 1">
+</div>
+<div id="PageContent_T0643CD2A006_Col01" class="sf_colsIn col-md-10" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="row sf-detail-content" data-sf-element="Row">
+<div id="PageContent_T0643CD2A004_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Item header">
+<div class="sf-item-header-wrapper">
+<h1>Physical activity</h1>
+<div class="date">
+<span class="timestamp">5 October 2022</span>
+</div>
+</div>
+<script type="application/ld+json">
+    {"author":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"headline":"Physical activity","description":"<div>\r\n<h2>What is physical activity?</h2>\r\n</div>\r\n<div>\r\n<p>WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person&rsquo;s work. Both moderate- and vigorous-intensity physical activity improve health.</p>\r\n</div>\r\n<div>\r\n<p>Popular ways to be active include walking, cycling, wheeling, sports, active recreation and play, and can be done at any level of skill and for enjoyment by everybody.&nbsp;</p>\r\n</div>\r\n<div>\r\n<p>Regular physical activity is proven to help prevent and manage noncommunicable diseases such as heart disease, stroke, diabetes and several cancers. It also helps prevent hypertension, maintain healthy body weight and can improve mental health, quality of life and well-being.&nbsp;</p>\r\n</div>\r\n<h2>How much of physical activity is recommended?</h2>\r\n<div>\r\n<p>WHO guidelines and recommendations provide details for different age groups and specific population groups on how much physical activity is needed for good health.</p>\r\n</div>\r\n<div>WHO recommends:</div>\r\n<div><strong>For children under 5 years of age</strong></div>\r\n<div>\r\n<p><strong><em>In a 24-hour day, infants (less than 1 year) should:</em></strong></p>\r\n</div>\r\n<ul>\r\n    <li>be physically active several times a day in a variety of ways, particularly through interactive floor-based play; more is better. For those not yet mobile, this includes at least 30 minutes in prone position (tummy time) spread throughout the day while awake;</li>\r\n    <li>not be restrained for more than 1 hour at a time (e.g., prams/strollers, high chairs, or strapped on a caregiver&rsquo;s back);\r\n    <ul>\r\n        <li>Screen time is not recommended.&nbsp;</li>\r\n    </ul>\r\n    </li>\r\n    <li>When sedentary, engaging in reading and storytelling with a caregiver is encouraged; and</li>\r\n    <li>have 14-17h (0-3 months of age) or 12-16h (4-11 months of age) of good quality sleep, including naps.</li>\r\n</ul>\r\n<div>\r\n<p><strong><em>In a 24-hour day, children 1-2 years of age should:</em></strong></p>\r\n</div>\r\n<ul>\r\n    <li>spend at least 180 minutes in a variety of types of physical activities at any intensity, including moderate- to vigorous-intensity physical activity, spread throughout the day; more is better;</li>\r\n    <li>not be restrained for more than 1 hour at a time (e.g., prams/strollers, high chairs, or strapped on a caregiver&rsquo;s back) or sit for extended periods of time.\r\n    <ul>\r\n        <li>For 1 year olds, sedentary screen time (such as watching TV or videos, playing computer games) is not recommended.&nbsp;</li>\r\n        <li>For those aged 2 years, sedentary screen time should be no more than 1 hour; less is better.&nbsp;</li>\r\n    </ul>\r\n    </li>\r\n    <li>When sedentary, engaging in reading and storytelling with a caregiver is encouraged; and</li>\r\n    <li>have 11-14h of good quality sleep, including naps, with regular sleep and wake-up times.</li>\r\n</ul>\r\n<div>\r\n<p><strong><em>In a 24-hour day, children 3-4 years of age should:</em></strong></p>\r\n</div>\r\n<ul>\r\n    <li>spend at least 180 minutes in a variety of types of physical activities at any intensity, of which at least 60 minutes is moderate- to vigorous-intensity physical activity, spread throughout the day; more is better;</li>\r\n    <li>not be restrained for more than 1 hour at a time (e.g., prams/strollers) or sit for extended periods of time.\r\n    <ul>\r\n        <li>Sedentary screen time should be no more than 1 hour; less is better.</li>\r\n    </ul>\r\n    </li>\r\n</ul>\r\n<ul>\r\n    <li>When sedentary, engaging in reading and storytelling with a caregiver is); encourage; and&nbsp;</li>\r\n    <li>have 10-13h of good quality sleep, which may include a nap, with regular sleep and wake-up times.</li>\r\n</ul>\r\n<div>\r\n<p>For more information <a href=\"https://apps.who.int/iris/handle/10665/311664\" target=\"_blank\">World Health Organization. Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age</a>.</p>\r\n</div>\r\n<div><strong>Children and adolescents aged 5-17 years</strong></div>\r\n<ul>\r\n    <li>should do at least an average of 60 minutes per day of moderate-to-vigorous intensity, mostly aerobic, physical activity, across the week.</li>\r\n    <li>should incorporate vigorous-intensity aerobic activities, as well as those that strengthen muscle and bone, at least 3 days a week.</li>\r\n    <li>should limit the amount of time spent being sedentary, particularly the amount of recreational screen time.</li>\r\n</ul>\r\n<div><strong>Adults aged 18&ndash;64 years</strong></div>\r\n<ul>\r\n    <li>should do at least 150&ndash;300 minutes of moderate-intensity aerobic physical activity;&nbsp;</li>\r\n    <li>or at least 75&ndash;150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week</li>\r\n    <li>should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.</li>\r\n    <li>may increase moderate-intensity aerobic physical activity to more than 300 minutes; or do more than 150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week for additional health benefits.</li>\r\n    <li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits, and</li>\r\n    <li>to help reduce the detrimental effects of high levels of sedentary behaviour on health, all adults and older adults should aim to do more than the recommended levels of moderate- to vigorous-intensity physical activity</li>\r\n</ul>\r\n<div>\r\n<p><strong>Adults aged 65 years and above</strong></p>\r\n</div>\r\n<ul>\r\n    <li>Same as for adults; and</li>\r\n    <li>as part of their weekly physical activity, older adults should do varied multicomponent physical activity that emphasizes functional balance and strength training at moderate or greater intensity, on 3 or more days a week, to enhance functional capacity and to prevent falls.&nbsp;</li>\r\n</ul>\r\n<div>\r\n<p><strong>Pregnant and postpartum women</strong></p>\r\n</div>\r\n<div>\r\n<p>All pregnant and postpartum women without contraindication should:</p>\r\n</div>\r\n<ul>\r\n    <li>do at least 150 minutes of moderate-intensity aerobic physical activity throughout the week</li>\r\n    <li>incorporate a variety of aerobic and muscle-strengthening activities</li>\r\n    <li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits.</li>\r\n</ul>\r\n<div>\r\n<p><strong>People living with chronic conditions</strong> (hypertension, type 2 diabetes, HIV and cancer survivors)&nbsp;</p>\r\n</div>\r\n<ul>\r\n    <li>should do at least 150&ndash;300 minutes of moderate-intensity aerobic physical activity;&nbsp;</li>\r\n    <li>or at least 75&ndash;150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week</li>\r\n    <li>should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.</li>\r\n    <li>as part of their weekly physical activity, older adults should do varied multicomponent physical activity that emphasizes functional balance and strength training at moderate or greater intensity, on 3 or more days a week, to enhance functional capacity and to prevent falls.&nbsp;</li>\r\n    <li>may increase moderate-intensity aerobic physical activity to more than 300 minutes; or do more than 150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week for additional health benefits.</li>\r\n    <li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits, and</li>\r\n    <li>to help reduce the detrimental effects of high levels of sedentary behaviour on health, all adults and older adults should aim to do more than the recommended levels of moderate- to vigorous-intensity physical activity.</li>\r\n</ul>\r\n<div>\r\n<p><strong>Children and adolescents living with disability:</strong></p>\r\n</div>\r\n<ul>\r\n    <li>should do at least an average of 60 minutes per day of moderate-to-vigorous intensity, mostly aerobic, physical activity, across the week.</li>\r\n    <li>should incorporate vigorous-intensity aerobic activities, as well as those that strengthen muscle and bone, at least 3 days a week.</li>\r\n    <li>should limit the amount of time spent being sedentary, particularly the amount of recreational screen time.</li>\r\n</ul>\r\n<div>\r\n<p><strong>Adults living with disability:</strong></p>\r\n</div>\r\n<ul>\r\n    <li>should do at least 150&ndash;300 minutes of moderate-intensity aerobic physical activity;&nbsp;</li>\r\n    <li>or at least 75&ndash;150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week</li>\r\n    <li>should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.</li>\r\n    <li>As part of their weekly physical activity, older adults should do varied multicomponent physical activity that emphasizes functional balance and strength training at moderate or greater intensity, on 3 or more days a week, to enhance functional capacity and to prevent falls.&nbsp;</li>\r\n    <li>may increase moderate-intensity aerobic physical activity to more than 300 minutes; or do more than 150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week for additional health benefits.</li>\r\n    <li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits, and</li>\r\n    <li>to help reduce the detrimental effects of high levels of sedentary behaviour on health, all adults and older adults should aim to do more than the recommended levels of moderate- to vigorous-intensity physical activity.</li>\r\n    <li>It is possible to avoid sedentary behaviour and be physically active while sitting or lying. E.g. Upper body led activities, inclusive and/or wheelchair-specific sport and activities.</li>\r\n</ul>\r\n<div>\r\n</div>\r\n<div><strong>For more information</strong> <a href=\"https://apps.who.int/iris/bitstream/handle/10665/336656/9789240015128-eng.pdf?sequence=1&amp;isAllowed=y\">World Health Organization. Guidelines on physical activity and sedentary behaviour. Geneva: World Health Organization; 2020.&nbsp;</a></div>\r\n<h2>Benefits and risks of physical activity and sedentary behavior&nbsp;</h2>\r\n<div>\r\n<p>Regular physical activity, such as walking, cycling, wheeling, doing sports or active recreation, provides significant benefits for health. Some physical activity is better than doing none. By becoming more active throughout the day in relatively simple ways, people can easily achieve the recommended activity levels.&nbsp;</p>\r\n</div>\r\n<div>Physical inactivity is one of the leading risk factors for noncommunicable diseases mortality. People who are insufficiently active have a 20% to 30% increased risk of death compared to people who are sufficiently active.</div>\r\n<div>\r\n<p>Regular physical activity can:</p>\r\n</div>\r\n<ul>\r\n    <li>improve muscular and cardiorespiratory fitness;</li>\r\n    <li>improve bone and functional health;</li>\r\n    <li>reduce the risk of hypertension, coronary heart disease, stroke, diabetes, various types of cancer (including breast cancer and colon cancer), and depression;</li>\r\n    <li>reduce the risk of falls as well as hip or vertebral fractures; and</li>\r\n    <li>help maintain a healthy body weight.</li>\r\n</ul>\r\n<p><strong>In children and adolescents, physical activity improves:</strong></p>\r\n<ul>\r\n    <li>physical fitness (cardiorespiratory and muscular fitness)</li>\r\n    <li>cardiometabolic health (blood pressure, dyslipidaemia, glucose, and insulin resistance)</li>\r\n    <li>bone health</li>\r\n    <li>cognitive outcomes (academic performance, executive function)</li>\r\n    <li>mental health (reduced symptoms of depression)</li>\r\n    <li>reduced adiposity</li>\r\n</ul>\r\n<div>\r\n<p><strong>In adults and older adults, higher levels of physical activity improves:</strong></p>\r\n</div>\r\n<ul>\r\n    <li>risk of all-cause mortality</li>\r\n    <li>risk of cardiovascular disease mortality</li>\r\n    <li>incident hypertension</li>\r\n    <li>incident site-specific cancers (bladder, breast, colon, endometrial, oesophageal adenocarcinoma, gastric and renal cancers)</li>\r\n    <li>incident type-2 diabetes</li>\r\n    <li>prevents of falls&nbsp;</li>\r\n    <li>mental health (reduced symptoms of anxiety and depression)</li>\r\n    <li>cognitive health</li>\r\n    <li>sleep</li>\r\n    <li>measures of adiposity may also improve&nbsp;</li>\r\n</ul>\r\n<div>\r\n<p><strong>For pregnant and post-partum women&nbsp;</strong></p>\r\n</div>\r\n<div>\r\n<p>Physical activity confers the following maternal and fetal health benefits: a decreased risk of:</p>\r\n</div>\r\n<ul>\r\n    <li>pre-eclampsia,&nbsp;</li>\r\n    <li>gestational hypertension,&nbsp;</li>\r\n    <li>gestational diabetes (for example 30% reduction in risk)&nbsp;</li>\r\n    <li>excessive gestational weight gain,&nbsp;</li>\r\n    <li>delivery complications&nbsp;</li>\r\n    <li>postpartum depression</li>\r\n    <li>newborn complications,&nbsp;</li>\r\n    <li>and physical activity has no adverse effects on birthweight or increased risk of stillbirth.</li>\r\n</ul>\r\n<div>\r\n<p><strong>Health risks of sedentary behaviour</strong></p>\r\n</div>\r\n<div>\r\n<p>Lives are becoming increasingly sedentary, through the use of motorized transport and the increased use of screens for work, education and recreation. Evidence shows higher amounts of sedentary behaviour are associated with the following poor health outcomes:</p>\r\n</div>\r\n<div>In children and adolescents:&nbsp;</div>\r\n<ul>\r\n    <li>increased adiposity (weight gain)</li>\r\n    <li>poorer cardiometabolic health, fitness, behavioural conduct/pro-social behaviour</li>\r\n    <li>reduced sleep duration</li>\r\n</ul>\r\n<div>In adults:</div>\r\n<ul>\r\n    <li>all-cause mortality, cardiovascular disease mortality and cancer mortality</li>\r\n    <li>incidence of cardiovascular disease, cancer and type-2 diabetes.&nbsp;</li>\r\n</ul>\r\n<h2>Levels of physical activity globally</h2>\r\n<ul>\r\n    <li>More than a quarter of the world&rsquo;s adult population (1.4 billion adults) are insufficiently active</li>\r\n    <li>Worldwide, around 1 in 3 women and 1 in 4 men do not do enough physical activity to stay healthy.&nbsp;</li>\r\n    <li>Levels of inactivity are twice as high in high-income countries compared to low-income countries,&nbsp;</li>\r\n    <li>There has been no improvement in global levels of physical activity since 2001&nbsp;</li>\r\n    <li>Insufficient activity increased by 5% (from 31.6% to 36.8%) in high-income countries between 2001 and 2016.</li>\r\n</ul>\r\n<div>\r\n<p>Increased levels of physical inactivity have negative impacts on health systems, the environment, economic development, community well-being and quality of life.</p>\r\n</div>\r\n<div>\r\n<p>Globally, 28% of adults aged 18 and over were not active enough in 2016 (men 23% and women 32%). This means they do not meet the global recommendations of at least 150 minutes of moderate-intensity, or 75 minutes vigorous-intensity physical activity per week.&nbsp;</p>\r\n</div>\r\n<div>\r\n<p>In high-income countries, 26% of men and 35% of women were insufficiently physically active, as compared to 12% of men and 24% of women in low-income countries. Low or decreasing physical activity levels often correspond with a high or rising gross national product.</p>\r\n</div>\r\n<div>\r\n<p>The drop in physical activity is partly due to inaction during leisure time and sedentary behaviour on the job and at home. Likewise, an increase in the use of \"passive\" modes of transportation also contributes to insufficient physical activity.</p>\r\n</div>\r\n<div>\r\n<p>Globally, 81% of adolescents aged 11-17 years were insufficiently physically active in 2016. Adolescent girls were less active than adolescent boys, with 85% vs. 78% not meeting WHO recommendations of at least 60 minutes of moderate to vigorous intensity physical activity per day.&nbsp;</p>\r\n</div>\r\n<h2>How to increase physical activity?</h2>\r\n<div>\r\n<p>Countries and communities must take action to provide everyone with more opportunities to be active, in order to increase physical activity. This requires a collective effort, both national and local, across different sectors and disciplines to implement policy and solutions appropriate to a country&rsquo;s cultural and social environment to promote, enable and encourage physical activity.</p>\r\n</div>\r\n<div>Policies to increase physical activity aim to ensure that:</div>\r\n<ul>\r\n    <li>walking, cycling and other forms of active non-motorized forms of transport are accessible and safe for all;</li>\r\n    <li>labour and workplace policies encourage active commuting and opportunities for being physically active during the work day;</li>\r\n    <li>childcare, schools and higher education institutions provide supportive and safe spaces and facilities for all students to spend their free time actively;</li>\r\n    <li>primary and secondary schools provide quality physical education that supports children to develop behaviour patterns that will keep them physically active throughout their lives;&nbsp;</li>\r\n    <li>community-based and school-sport programmes provide appropriate opportunities for all ages and abilities;</li>\r\n    <li>sports and recreation facilities provide opportunities for everyone to access and participate in a variety of different sports, dance, exercise and active recreation; and</li>\r\n    <li>health care providers advise and support patients to be regularly active.</li>\r\n</ul>\r\n<h2>WHO response</h2>\r\n<div>\r\n<p>In 2018 WHO launched a new Global Action Plan on Physical Activity 2018-2030 which outlines four policy actions areas and 20 specific policy recommendations and actions for Member States, international partners and WHO, to increase physical activity worldwide. The global action plan calls for countries, cities and communities to adopt a &lsquo;whole-of-system&rsquo; response involving all sectors and stakeholders taking action at global, regional and local levels to provide the safe and supportive environments and more opportunities to help people increase their levels of physical activity.&nbsp;</p>\r\n</div>\r\n<div>\r\n<p>In 2018, the World Health Assembly agreed on a global target to reduce physical inactivity by 15% by 2030 and align with the Sustainable Development Goals. The commitments made by world leaders to develop ambitious national SDG responses provides an opportunity to refocus and renew efforts at promoting physical activity.&nbsp;</p>\r\n</div>\r\n<div>\r\n<p>The WHO toolkit ACTIVE launched in 2019 provides more specific technical guidance on how to start and implement the 20 policy recommendations outlined in the global action plan.&nbsp;</p>\r\n</div>\r\n<div>\r\n<p>The global action plan and ACTIVE propose policy options that can be adapted and tailored to local culture and contexts to help increase levels of physical activity globally, these include:</p>\r\n</div>\r\n<ul>\r\n    <li>the development and implementation of national guidelines for physical activity for all age groups;</li>\r\n    <li>establishing national coordinating mechanisms involving all relevant government departments and key non-government stakeholders to develop and implement coherent and sustainable policy and actions plans;&nbsp;</li>\r\n    <li>implementing community wide communication campaigns to raise awareness and knowledge of the multiple health, economic and social benefits of being physically active;</li>\r\n    <li>invest in new technologies, innovation and research to develop cost effective approaches to increasing physical activity, particularly in low resource contexts;&nbsp;</li>\r\n    <li>ensure regular surveillance and monitoring of physical activity and policy implementation.</li>\r\n</ul>\r\n<div>\r\n<p><strong>For more information -&nbsp;</strong><a href=\"https://apps.who.int/iris/bitstream/handle/10665/272722/9789241514187-eng.pdf?sequence=1&amp;isAllowed=y\">Global action plan on physical activity 2018&ndash;2030: more active people for a healthier world</a></p>\r\n</div>\r\n<div>\r\n<p>To help countries and communities measure physical activity in adults, WHO has developed the Global Physical Activity Questionnaire (GPAQ). This questionnaire helps countries monitor insufficient physical activity as one of the main NCD risk factors. The GPAQ has been integrated into the WHO STEPwise approach, which is a surveillance system for the main NCD risk factors.</p>\r\n</div>\r\n<div>\r\n<p>To assess physical activity among schoolchildren WHO has collaborated on a questionnaire module which has been integrated into the Global school-based student health survey (GSHS). The GSHS is a WHO/US CDC surveillance project designed to help countries measure and assess the behavioural risk factors and protective factors in 10 key areas among young people aged 13 to 17 years.</p>\r\n</div>\r\n<div>\r\n<p>WHO is also working with international experts on the development of methods and instruments to assess physical activity in children under the age of five years of age and under 10 years of age. In addition, WHO is testing the use of digital and wearable technologies, such as pedometers and accelerometers, in national population surveillance of physical activity in adults. This work will be extended to include children and will inform the development of updated global guidance on the monitoring of physical activity and sedentary behaviours.</p>\r\n</div>\r\n<p>To support a &lsquo;whole of system&rsquo; response, WHO is collaborating across multiple sectors to strengthen coordination, advocacy and alignment of policy and actions. WHO has established partnerships to help support Member States in their efforts to promote physical activity &ndash; these include working with the United Nations Educational, Scientific and Cultural Organization (UNESCO) to advance and align the implementation of GAPPA and the <a href=\"https://en.unesco.org/mineps6/kazan-action-plan\">Kazan Action Plan</a> on physical education, sports and physical activity. WHO is also working with many other UN agencies in the shared agenda to promote <a href=\"https://www.un.org/development/desa/dspd/sport-development-peace.html\">Sport for Development and Peace</a>. Within the sports system WHO is collaborating with the International Olympic Committee and International Sports Federations, The International Federation of Football Associations, FIFA, and others to support and strengthen the promotion of health through sports and the sports for all agenda.</p>","datePublished":"2022-10-05T18:53:00.0000000+00:00","image":"https://cdn.who.int/media/images/default-source/imported/hoolahoop-thailand-physical_activity-jpg.jpg?sfvrsn=9ee3b5b2_0","publisher":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"dateModified":"2022-10-05T18:53:00.0000000+00:00","mainEntityOfPage":"https://www.who.int/news-room/fact-sheets/detail/physical-activity","@context":"http://schema.org","@type":"Article"};
+</script>
+</div>
+<div id="PageContent_T0643CD2A004_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Toolbox">
+<div class="social-share--add-this share">
+<div class="addthis_inline_share_toolbox">
+</div>
+</div>
+<div id="language-selector-item-details">
+</div>
+</div>
+</div>
+<div class="row sf-detail-content" data-sf-element="Row">
+<div id="PageContent_T0643CD2A003_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Body">
+<div class="list-bold separator-line">
+<h2>Key facts</h2>
+<ul>
+<li>Physical activity has significant health benefits for hearts, bodies and minds</li>
+<li>Physical activity contributes to preventing and managing noncommunicable diseases such as cardiovascular diseases, cancer and diabetes</li>
+<li>Physical activity reduces symptoms of depression and anxiety</li>
+<li>Physical activity enhances thinking, learning, and judgment skills</li>
+<li>Physical activity ensures healthy growth and development in young people</li>
+<li>Physical activity improves overall well-being</li>
+<li>Globally, 1 in 4 adults do not meet the global recommended levels of physical activity</li>
+<li>People who are insufficiently active have a 20% to 30% increased risk of death compared to people who are sufficiently active</li>
+<li>More than 80% of the world&#39;s adolescent population is insufficiently physically active</li>
+</ul>
+</div>
+<article class="sf-detail-body-wrapper">
+<div><div>
+<h2>What is physical activity?</h2>
+</div>
+<div>
+<p>WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person&rsquo;s work. Both moderate- and vigorous-intensity physical activity improve health.</p>
+</div>
+<div>
+<p>Popular ways to be active include walking, cycling, wheeling, sports, active recreation and play, and can be done at any level of skill and for enjoyment by everybody.&nbsp;</p>
+</div>
+<div>
+<p>Regular physical activity is proven to help prevent and manage noncommunicable diseases such as heart disease, stroke, diabetes and several cancers. It also helps prevent hypertension, maintain healthy body weight and can improve mental health, quality of life and well-being.&nbsp;</p>
+</div>
+<h2>How much of physical activity is recommended?</h2>
+<div>
+<p>WHO guidelines and recommendations provide details for different age groups and specific population groups on how much physical activity is needed for good health.</p>
+</div>
+<div>WHO recommends:</div>
+<div><strong>For children under 5 years of age</strong></div>
+<div>
+<p><strong><em>In a 24-hour day, infants (less than 1 year) should:</em></strong></p>
+</div>
+<ul>
+<li>be physically active several times a day in a variety of ways, particularly through interactive floor-based play; more is better. For those not yet mobile, this includes at least 30 minutes in prone position (tummy time) spread throughout the day while awake;</li>
+<li>not be restrained for more than 1 hour at a time (e.g., prams/strollers, high chairs, or strapped on a caregiver&rsquo;s back);
+<ul>
+<li>Screen time is not recommended.&nbsp;</li>
+</ul>
+</li>
+<li>When sedentary, engaging in reading and storytelling with a caregiver is encouraged; and</li>
+<li>have 14-17h (0-3 months of age) or 12-16h (4-11 months of age) of good quality sleep, including naps.</li>
+</ul>
+<div>
+<p><strong><em>In a 24-hour day, children 1-2 years of age should:</em></strong></p>
+</div>
+<ul>
+<li>spend at least 180 minutes in a variety of types of physical activities at any intensity, including moderate- to vigorous-intensity physical activity, spread throughout the day; more is better;</li>
+<li>not be restrained for more than 1 hour at a time (e.g., prams/strollers, high chairs, or strapped on a caregiver&rsquo;s back) or sit for extended periods of time.
+<ul>
+<li>For 1 year olds, sedentary screen time (such as watching TV or videos, playing computer games) is not recommended.&nbsp;</li>
+<li>For those aged 2 years, sedentary screen time should be no more than 1 hour; less is better.&nbsp;</li>
+</ul>
+</li>
+<li>When sedentary, engaging in reading and storytelling with a caregiver is encouraged; and</li>
+<li>have 11-14h of good quality sleep, including naps, with regular sleep and wake-up times.</li>
+</ul>
+<div>
+<p><strong><em>In a 24-hour day, children 3-4 years of age should:</em></strong></p>
+</div>
+<ul>
+<li>spend at least 180 minutes in a variety of types of physical activities at any intensity, of which at least 60 minutes is moderate- to vigorous-intensity physical activity, spread throughout the day; more is better;</li>
+<li>not be restrained for more than 1 hour at a time (e.g., prams/strollers) or sit for extended periods of time.
+<ul>
+<li>Sedentary screen time should be no more than 1 hour; less is better.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>When sedentary, engaging in reading and storytelling with a caregiver is); encourage; and&nbsp;</li>
+<li>have 10-13h of good quality sleep, which may include a nap, with regular sleep and wake-up times.</li>
+</ul>
+<div>
+<p>For more information <a href="https://apps.who.int/iris/handle/10665/311664" target="_blank">World Health Organization. Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age</a>.</p>
+</div>
+<div><strong>Children and adolescents aged 5-17 years</strong></div>
+<ul>
+<li>should do at least an average of 60 minutes per day of moderate-to-vigorous intensity, mostly aerobic, physical activity, across the week.</li>
+<li>should incorporate vigorous-intensity aerobic activities, as well as those that strengthen muscle and bone, at least 3 days a week.</li>
+<li>should limit the amount of time spent being sedentary, particularly the amount of recreational screen time.</li>
+</ul>
+<div><strong>Adults aged 18&ndash;64 years</strong></div>
+<ul>
+<li>should do at least 150&ndash;300 minutes of moderate-intensity aerobic physical activity;&nbsp;</li>
+<li>or at least 75&ndash;150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week</li>
+<li>should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.</li>
+<li>may increase moderate-intensity aerobic physical activity to more than 300 minutes; or do more than 150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week for additional health benefits.</li>
+<li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits, and</li>
+<li>to help reduce the detrimental effects of high levels of sedentary behaviour on health, all adults and older adults should aim to do more than the recommended levels of moderate- to vigorous-intensity physical activity</li>
+</ul>
+<div>
+<p><strong>Adults aged 65 years and above</strong></p>
+</div>
+<ul>
+<li>Same as for adults; and</li>
+<li>as part of their weekly physical activity, older adults should do varied multicomponent physical activity that emphasizes functional balance and strength training at moderate or greater intensity, on 3 or more days a week, to enhance functional capacity and to prevent falls.&nbsp;</li>
+</ul>
+<div>
+<p><strong>Pregnant and postpartum women</strong></p>
+</div>
+<div>
+<p>All pregnant and postpartum women without contraindication should:</p>
+</div>
+<ul>
+<li>do at least 150 minutes of moderate-intensity aerobic physical activity throughout the week</li>
+<li>incorporate a variety of aerobic and muscle-strengthening activities</li>
+<li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits.</li>
+</ul>
+<div>
+<p><strong>People living with chronic conditions</strong> (hypertension, type 2 diabetes, HIV and cancer survivors)&nbsp;</p>
+</div>
+<ul>
+<li>should do at least 150&ndash;300 minutes of moderate-intensity aerobic physical activity;&nbsp;</li>
+<li>or at least 75&ndash;150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week</li>
+<li>should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.</li>
+<li>as part of their weekly physical activity, older adults should do varied multicomponent physical activity that emphasizes functional balance and strength training at moderate or greater intensity, on 3 or more days a week, to enhance functional capacity and to prevent falls.&nbsp;</li>
+<li>may increase moderate-intensity aerobic physical activity to more than 300 minutes; or do more than 150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week for additional health benefits.</li>
+<li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits, and</li>
+<li>to help reduce the detrimental effects of high levels of sedentary behaviour on health, all adults and older adults should aim to do more than the recommended levels of moderate- to vigorous-intensity physical activity.</li>
+</ul>
+<div>
+<p><strong>Children and adolescents living with disability:</strong></p>
+</div>
+<ul>
+<li>should do at least an average of 60 minutes per day of moderate-to-vigorous intensity, mostly aerobic, physical activity, across the week.</li>
+<li>should incorporate vigorous-intensity aerobic activities, as well as those that strengthen muscle and bone, at least 3 days a week.</li>
+<li>should limit the amount of time spent being sedentary, particularly the amount of recreational screen time.</li>
+</ul>
+<div>
+<p><strong>Adults living with disability:</strong></p>
+</div>
+<ul>
+<li>should do at least 150&ndash;300 minutes of moderate-intensity aerobic physical activity;&nbsp;</li>
+<li>or at least 75&ndash;150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week</li>
+<li>should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.</li>
+<li>As part of their weekly physical activity, older adults should do varied multicomponent physical activity that emphasizes functional balance and strength training at moderate or greater intensity, on 3 or more days a week, to enhance functional capacity and to prevent falls.&nbsp;</li>
+<li>may increase moderate-intensity aerobic physical activity to more than 300 minutes; or do more than 150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week for additional health benefits.</li>
+<li>should limit the amount of time spent being sedentary. Replacing sedentary time with physical activity of any intensity (including light intensity) provides health benefits, and</li>
+<li>to help reduce the detrimental effects of high levels of sedentary behaviour on health, all adults and older adults should aim to do more than the recommended levels of moderate- to vigorous-intensity physical activity.</li>
+<li>It is possible to avoid sedentary behaviour and be physically active while sitting or lying. E.g. Upper body led activities, inclusive and/or wheelchair-specific sport and activities.</li>
+</ul>
+<div>
+</div>
+<div><strong>For more information</strong> <a href="https://apps.who.int/iris/bitstream/handle/10665/336656/9789240015128-eng.pdf?sequence=1&amp;isAllowed=y">World Health Organization. Guidelines on physical activity and sedentary behaviour. Geneva: World Health Organization; 2020.&nbsp;</a></div>
+<h2>Benefits and risks of physical activity and sedentary behavior&nbsp;</h2>
+<div>
+<p>Regular physical activity, such as walking, cycling, wheeling, doing sports or active recreation, provides significant benefits for health. Some physical activity is better than doing none. By becoming more active throughout the day in relatively simple ways, people can easily achieve the recommended activity levels.&nbsp;</p>
+</div>
+<div>Physical inactivity is one of the leading risk factors for noncommunicable diseases mortality. People who are insufficiently active have a 20% to 30% increased risk of death compared to people who are sufficiently active.</div>
+<div>
+<p>Regular physical activity can:</p>
+</div>
+<ul>
+<li>improve muscular and cardiorespiratory fitness;</li>
+<li>improve bone and functional health;</li>
+<li>reduce the risk of hypertension, coronary heart disease, stroke, diabetes, various types of cancer (including breast cancer and colon cancer), and depression;</li>
+<li>reduce the risk of falls as well as hip or vertebral fractures; and</li>
+<li>help maintain a healthy body weight.</li>
+</ul>
+<p><strong>In children and adolescents, physical activity improves:</strong></p>
+<ul>
+<li>physical fitness (cardiorespiratory and muscular fitness)</li>
+<li>cardiometabolic health (blood pressure, dyslipidaemia, glucose, and insulin resistance)</li>
+<li>bone health</li>
+<li>cognitive outcomes (academic performance, executive function)</li>
+<li>mental health (reduced symptoms of depression)</li>
+<li>reduced adiposity</li>
+</ul>
+<div>
+<p><strong>In adults and older adults, higher levels of physical activity improves:</strong></p>
+</div>
+<ul>
+<li>risk of all-cause mortality</li>
+<li>risk of cardiovascular disease mortality</li>
+<li>incident hypertension</li>
+<li>incident site-specific cancers (bladder, breast, colon, endometrial, oesophageal adenocarcinoma, gastric and renal cancers)</li>
+<li>incident type-2 diabetes</li>
+<li>prevents of falls&nbsp;</li>
+<li>mental health (reduced symptoms of anxiety and depression)</li>
+<li>cognitive health</li>
+<li>sleep</li>
+<li>measures of adiposity may also improve&nbsp;</li>
+</ul>
+<div>
+<p><strong>For pregnant and post-partum women&nbsp;</strong></p>
+</div>
+<div>
+<p>Physical activity confers the following maternal and fetal health benefits: a decreased risk of:</p>
+</div>
+<ul>
+<li>pre-eclampsia,&nbsp;</li>
+<li>gestational hypertension,&nbsp;</li>
+<li>gestational diabetes (for example 30% reduction in risk)&nbsp;</li>
+<li>excessive gestational weight gain,&nbsp;</li>
+<li>delivery complications&nbsp;</li>
+<li>postpartum depression</li>
+<li>newborn complications,&nbsp;</li>
+<li>and physical activity has no adverse effects on birthweight or increased risk of stillbirth.</li>
+</ul>
+<div>
+<p><strong>Health risks of sedentary behaviour</strong></p>
+</div>
+<div>
+<p>Lives are becoming increasingly sedentary, through the use of motorized transport and the increased use of screens for work, education and recreation. Evidence shows higher amounts of sedentary behaviour are associated with the following poor health outcomes:</p>
+</div>
+<div>In children and adolescents:&nbsp;</div>
+<ul>
+<li>increased adiposity (weight gain)</li>
+<li>poorer cardiometabolic health, fitness, behavioural conduct/pro-social behaviour</li>
+<li>reduced sleep duration</li>
+</ul>
+<div>In adults:</div>
+<ul>
+<li>all-cause mortality, cardiovascular disease mortality and cancer mortality</li>
+<li>incidence of cardiovascular disease, cancer and type-2 diabetes.&nbsp;</li>
+</ul>
+<h2>Levels of physical activity globally</h2>
+<ul>
+<li>More than a quarter of the world&rsquo;s adult population (1.4 billion adults) are insufficiently active</li>
+<li>Worldwide, around 1 in 3 women and 1 in 4 men do not do enough physical activity to stay healthy.&nbsp;</li>
+<li>Levels of inactivity are twice as high in high-income countries compared to low-income countries,&nbsp;</li>
+<li>There has been no improvement in global levels of physical activity since 2001&nbsp;</li>
+<li>Insufficient activity increased by 5% (from 31.6% to 36.8%) in high-income countries between 2001 and 2016.</li>
+</ul>
+<div>
+<p>Increased levels of physical inactivity have negative impacts on health systems, the environment, economic development, community well-being and quality of life.</p>
+</div>
+<div>
+<p>Globally, 28% of adults aged 18 and over were not active enough in 2016 (men 23% and women 32%). This means they do not meet the global recommendations of at least 150 minutes of moderate-intensity, or 75 minutes vigorous-intensity physical activity per week.&nbsp;</p>
+</div>
+<div>
+<p>In high-income countries, 26% of men and 35% of women were insufficiently physically active, as compared to 12% of men and 24% of women in low-income countries. Low or decreasing physical activity levels often correspond with a high or rising gross national product.</p>
+</div>
+<div>
+<p>The drop in physical activity is partly due to inaction during leisure time and sedentary behaviour on the job and at home. Likewise, an increase in the use of "passive" modes of transportation also contributes to insufficient physical activity.</p>
+</div>
+<div>
+<p>Globally, 81% of adolescents aged 11-17 years were insufficiently physically active in 2016. Adolescent girls were less active than adolescent boys, with 85% vs. 78% not meeting WHO recommendations of at least 60 minutes of moderate to vigorous intensity physical activity per day.&nbsp;</p>
+</div>
+<h2>How to increase physical activity?</h2>
+<div>
+<p>Countries and communities must take action to provide everyone with more opportunities to be active, in order to increase physical activity. This requires a collective effort, both national and local, across different sectors and disciplines to implement policy and solutions appropriate to a country&rsquo;s cultural and social environment to promote, enable and encourage physical activity.</p>
+</div>
+<div>Policies to increase physical activity aim to ensure that:</div>
+<ul>
+<li>walking, cycling and other forms of active non-motorized forms of transport are accessible and safe for all;</li>
+<li>labour and workplace policies encourage active commuting and opportunities for being physically active during the work day;</li>
+<li>childcare, schools and higher education institutions provide supportive and safe spaces and facilities for all students to spend their free time actively;</li>
+<li>primary and secondary schools provide quality physical education that supports children to develop behaviour patterns that will keep them physically active throughout their lives;&nbsp;</li>
+<li>community-based and school-sport programmes provide appropriate opportunities for all ages and abilities;</li>
+<li>sports and recreation facilities provide opportunities for everyone to access and participate in a variety of different sports, dance, exercise and active recreation; and</li>
+<li>health care providers advise and support patients to be regularly active.</li>
+</ul>
+<h2>WHO response</h2>
+<div>
+<p>In 2018 WHO launched a new Global Action Plan on Physical Activity 2018-2030 which outlines four policy actions areas and 20 specific policy recommendations and actions for Member States, international partners and WHO, to increase physical activity worldwide. The global action plan calls for countries, cities and communities to adopt a &lsquo;whole-of-system&rsquo; response involving all sectors and stakeholders taking action at global, regional and local levels to provide the safe and supportive environments and more opportunities to help people increase their levels of physical activity.&nbsp;</p>
+</div>
+<div>
+<p>In 2018, the World Health Assembly agreed on a global target to reduce physical inactivity by 15% by 2030 and align with the Sustainable Development Goals. The commitments made by world leaders to develop ambitious national SDG responses provides an opportunity to refocus and renew efforts at promoting physical activity.&nbsp;</p>
+</div>
+<div>
+<p>The WHO toolkit ACTIVE launched in 2019 provides more specific technical guidance on how to start and implement the 20 policy recommendations outlined in the global action plan.&nbsp;</p>
+</div>
+<div>
+<p>The global action plan and ACTIVE propose policy options that can be adapted and tailored to local culture and contexts to help increase levels of physical activity globally, these include:</p>
+</div>
+<ul>
+<li>the development and implementation of national guidelines for physical activity for all age groups;</li>
+<li>establishing national coordinating mechanisms involving all relevant government departments and key non-government stakeholders to develop and implement coherent and sustainable policy and actions plans;&nbsp;</li>
+<li>implementing community wide communication campaigns to raise awareness and knowledge of the multiple health, economic and social benefits of being physically active;</li>
+<li>invest in new technologies, innovation and research to develop cost effective approaches to increasing physical activity, particularly in low resource contexts;&nbsp;</li>
+<li>ensure regular surveillance and monitoring of physical activity and policy implementation.</li>
+</ul>
+<div>
+<p><strong>For more information -&nbsp;</strong><a href="https://apps.who.int/iris/bitstream/handle/10665/272722/9789241514187-eng.pdf?sequence=1&amp;isAllowed=y">Global action plan on physical activity 2018&ndash;2030: more active people for a healthier world</a></p>
+</div>
+<div>
+<p>To help countries and communities measure physical activity in adults, WHO has developed the Global Physical Activity Questionnaire (GPAQ). This questionnaire helps countries monitor insufficient physical activity as one of the main NCD risk factors. The GPAQ has been integrated into the WHO STEPwise approach, which is a surveillance system for the main NCD risk factors.</p>
+</div>
+<div>
+<p>To assess physical activity among schoolchildren WHO has collaborated on a questionnaire module which has been integrated into the Global school-based student health survey (GSHS). The GSHS is a WHO/US CDC surveillance project designed to help countries measure and assess the behavioural risk factors and protective factors in 10 key areas among young people aged 13 to 17 years.</p>
+</div>
+<div>
+<p>WHO is also working with international experts on the development of methods and instruments to assess physical activity in children under the age of five years of age and under 10 years of age. In addition, WHO is testing the use of digital and wearable technologies, such as pedometers and accelerometers, in national population surveillance of physical activity in adults. This work will be extended to include children and will inform the development of updated global guidance on the monitoring of physical activity and sedentary behaviours.</p>
+</div>
+<p>To support a &lsquo;whole of system&rsquo; response, WHO is collaborating across multiple sectors to strengthen coordination, advocacy and alignment of policy and actions. WHO has established partnerships to help support Member States in their efforts to promote physical activity &ndash; these include working with the United Nations Educational, Scientific and Cultural Organization (UNESCO) to advance and align the implementation of GAPPA and the <a href="https://en.unesco.org/mineps6/kazan-action-plan">Kazan Action Plan</a> on physical education, sports and physical activity. WHO is also working with many other UN agencies in the shared agenda to promote <a href="https://www.un.org/development/desa/dspd/sport-development-peace.html">Sport for Development and Peace</a>. Within the sports system WHO is collaborating with the International Olympic Committee and International Sports Federations, The International Federation of Football Associations, FIFA, and others to support and strengthen the promotion of health through sports and the sports for all agenda.</p></div>
+</article>
+</div>
+<div id="PageContent_T0643CD2A003_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Related">
+<p class="section-header">Related</p>
+<div class="vertical-list vertical-list--image"><ul><li><a href="/health-topics/physical-activity">WHO's work on physical activity</a></li><li><a href="/publications-detail-redirect/9789240059153">Global status report on physical activity 2022</a></li><li><a href="/publications-detail-redirect/9789241514187">Global action plan on physical activity 2018&ndash;2030: more active people for a healthier world</a></li><li><a href="/publications-detail-redirect/9789241599979">Global recommendations on physical activity for health</a></li><li><a href="/publications-detail-redirect/9789241550536" style="font-family:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;font-size:inherit;" target="_blank">Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age</a></li><li><a href="/publications-detail-redirect/9241592222" target="_blank">Global strategy: overall goal</a></li><li><a sfref="[Telerik.Sitefinity.DynamicTypes.Model.Publications.Publication|OpenAccessProvider|lng:en]e5e78211-df13-483b-be17-322d79a664d5" data-sf-ec-immutable>Global Action Plan for the Prevention and Control of NCDs 2013-2020</a><br/>Includes the global physical activity questionnaire (GPAQ)</li><li><a href="http://www.unesco.org/new/en/social-and-human-sciences/themes/physical-education-and-sport/quality-physical-education/" target="_new" data-sf-ec-immutable>Quality Physical Education (QPE): UNESCO</a></li><li><a href="https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30357-7/fulltext" target="_blank" data-sf-ec-immutable>Worldwide trends in insufficient physical activity from 2001 to 2016 (The Lancet)</a></li></ul><p>&nbsp;</p></div>
+<p class="section-header">News</p>
+<div class="related-items">
+<div class="related-item">
+<a href="https://www.who.int/news/item/18-09-2023-who-takes-its-message-on-health-for-all-to-second-walk-the-talk-new-york" class="link-container related-item--table">
+<div class="related-item--thumb related-item--table-cell">
+<div class="thumb">
+<div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wttny-2023-start-line.tmb-768v.jpg?sfvrsn=17ce0b2e_1" style="background-image: url('https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wttny-2023-start-line.tmb-131v.jpg?sfvrsn=17ce0b2e_1')"></div>
+</div>
+</div>
+<div class="related-item--content related-item--table-cell">
+<span class="heading text-underline">WHO takes its message on Health for All to second Walk the Talk New York</span>
+<span class="timestamp">18 September 2023</span>
+</div>
+</a>
+</div>
+<div class="related-item">
+<a href="https://www.who.int/news/item/29-06-2023-new-report-calls-for-greater-attention-to-children-s-vital-first-years" class="link-container related-item--table">
+<div class="related-item--thumb related-item--table-cell">
+<div class="thumb">
+<div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/mca/child-health/child-advisory-group.tmb-768v.jpg?sfvrsn=d1611e05_5" style="background-image: url('https://cdn.who.int/media/images/default-source/mca/child-health/child-advisory-group.tmb-131v.jpg?sfvrsn=d1611e05_5')"></div>
+</div>
+</div>
+<div class="related-item--content related-item--table-cell">
+<span class="heading text-underline">New report calls for greater attention to children’s vital first years</span>
+<span class="timestamp">29 June 2023</span>
+</div>
+</a>
+</div>
+<div class="related-item">
+<a href="https://www.who.int/news/item/13-06-2023-ioc-and-who-launch-let-s-move-campaign-on-olympic-day-to-inspire-and-enable-the-world-to-move-for-better-health" class="link-container related-item--table">
+<div class="related-item--thumb related-item--table-cell">
+<div class="thumb">
+<div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2019/wtt-2019-geneva-34-romain-grosjean-place-des-nations-credit--antoine-tardy.tmb-768v.jpg?sfvrsn=ad5ad57e_7" style="background-image: url('https://cdn.who.int/media/images/default-source/campaigns---walk-the-talk/walk-the-talk/wtt-geneva-2019/wtt-2019-geneva-34-romain-grosjean-place-des-nations-credit--antoine-tardy.tmb-131v.jpg?sfvrsn=ad5ad57e_7')"></div>
+</div>
+</div>
+<div class="related-item--content related-item--table-cell">
+<span class="heading text-underline">IOC and WHO launch Let&#39;s Move campaign on Olympic Day to inspire and enable the world to move for better health</span>
+<span class="timestamp">13 June 2023</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row sf-detail-content" data-sf-element="Row">
+<div id="PageContent_T0643CD2A005_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Related multimedia">
+</div>
+<div id="PageContent_T0643CD2A005_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+</div>
+</div>
+</div>
+<div id="PageContent_T0643CD2A006_Col02" class="sf_colsIn col-md-1" data-sf-element="Column 3" data-placeholder-label="Column 3">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>   <footer id="sf-footer"> <div class="main-footer">
+<div id="Footer_TD9F2A204001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+<div id="Footer_T75121FDA153_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+<ul class="main-navigation navVertical">
+<li class>
+<a href="/redirect-pages/footer/regions" target="_self">Regions</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/footer/regions/africa" target="_blank">Africa</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/regions/americas" target="_blank">Americas</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/regions/eastern-mediterranen" target="_self">Eastern Mediterranean</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/regions/europe" target="_self">Europe</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/regions/south-east-asia" target="_self">South-East Asia</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/regions/western-pacific" target="_self">Western Pacific</a>
+</li>
+</ul>
+</li>
+<li class>
+<a href="/redirect-pages/footer/who-policies" target="_self">Policies</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/footer/who-policies/cyber-security" target="_self">Cyber security</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/who-policies/ethics" target="_self">Ethics</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/who-policies/permissions-and-licensing" target="_self">Permissions and licensing</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/who-policies/preventing-sexual-exploitation" target="_self">Preventing sexual exploitation</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/who-policies/terms-of-use" target="_self">Terms of use</a>
+</li>
+</ul>
+</li>
+<li class>
+<a href="/redirect-pages/footer/about-us" target="_self">About us</a>
+<ul class="sub-level">
+<li class>
+<a href="/redirect-pages/footer/about-us/careers" target="_self">Careers</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/about-us/library" target="_self">Library</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/about-us/procurement" target="_self">Procurement</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/about-us/publications" target="_self">Publications</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/about-us/frequently-asked-questions" target="_self">Frequently asked questions</a>
+</li>
+<li class>
+<a href="/redirect-pages/footer/about-us/contact-us" target="_self">Contact us</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="Footer_T75121FDA153_Col01" class="sf_colsIn col-sm-3 col-md-3 centered-on-mobile" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="sf-content-block content-block">
+<div><div class="button button-dark-background" style="text-align:center;"><a href="/news-room/newsletters">Subscribe to our newsletters</a></div></div>
+</div>
+</div>
+</div>
+<div class="row" data-sf-element="Row">
+<div id="Footer_T75121FDA199_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Column 1">
+</div>
+</div>
+</div>
+<div class="footer-logo"> <a href="/" title="Home"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg" alt="Home" class="logo" /> </a> </div> </div> <div class="bottom-footer"> <div class="container"> <div class="row"> <div class="col-md-4">
+<div class="sf-content-block content-block">
+<div><a href="/about/policies/privacy">Privacy policy</a></div>
+</div>
+</div> <div class="col-md-4">
+<div class="sf-content-block content-block socialmedia-icons">
+<div><a href="https://www.youtube.com/user/who?sub_confirmation=1" title="Follow WHO on Youtube" target="_blank" data-sf-ec-immutable><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+<path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" fill="white"></path></svg></a>
+<a href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=who" title="Follow WHO on Twitter" target="_blank" data-sf-ec-immutable><svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"></path></svg></a>
+<a href="https://www.facebook.com/WHO" title="Follow WHO on Facebook" target="_blank" data-sf-ec-immutable><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+<path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" fill="white"></path></svg></a>
+<a href="https://instagram.com/who" title="Follow WHO on Instagram" target="_blank" data-sf-ec-immutable><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+<path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" fill="white"></path></svg></a>
+<a href="https://www.linkedin.com/company/world-health-organization" title="Follow WHO on LinkedIn" target="_blank" data-sf-ec-immutable><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+<path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" fill="white"></path></svg></a>
+<a href="https://www.snapchat.com/add/who" title="Follow WHO on Snapchat" target="_blank" data-sf-ec-immutable><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path d="M496.926,366.6c-3.373-9.176-9.8-14.086-17.112-18.153-1.376-.806-2.641-1.451-3.72-1.947-2.182-1.128-4.414-2.22-6.634-3.373-22.8-12.09-40.609-27.341-52.959-45.42a102.889,102.889,0,0,1-9.089-16.12c-1.054-3.013-1-4.724-.248-6.287a10.221,10.221,0,0,1,2.914-3.038c3.918-2.591,7.96-5.22,10.7-6.993,4.885-3.162,8.754-5.667,11.246-7.44,9.362-6.547,15.909-13.5,20-21.278a42.371,42.371,0,0,0,2.1-35.191c-6.2-16.318-21.613-26.449-40.287-26.449a55.543,55.543,0,0,0-11.718,1.24c-1.029.224-2.059.459-3.063.72.174-11.16-.074-22.94-1.066-34.534-3.522-40.758-17.794-62.123-32.674-79.16A130.167,130.167,0,0,0,332.1,36.443C309.515,23.547,283.91,17,256,17S202.6,23.547,180,36.443a129.735,129.735,0,0,0-33.281,26.783c-14.88,17.038-29.152,38.44-32.673,79.161-.992,11.594-1.24,23.435-1.079,34.533-1-.26-2.021-.5-3.051-.719a55.461,55.461,0,0,0-11.717-1.24c-18.687,0-34.125,10.131-40.3,26.449a42.423,42.423,0,0,0,2.046,35.228c4.105,7.774,10.652,14.731,20.014,21.278,2.48,1.736,6.361,4.24,11.246,7.44,2.641,1.711,6.5,4.216,10.28,6.72a11.054,11.054,0,0,1,3.3,3.311c.794,1.624.818,3.373-.36,6.6a102.02,102.02,0,0,1-8.94,15.785c-12.077,17.669-29.363,32.648-51.434,44.639C32.355,348.608,20.2,352.75,15.069,366.7c-3.868,10.528-1.339,22.506,8.494,32.6a49.137,49.137,0,0,0,12.4,9.387,134.337,134.337,0,0,0,30.342,12.139,20.024,20.024,0,0,1,6.126,2.741c3.583,3.137,3.075,7.861,7.849,14.78a34.468,34.468,0,0,0,8.977,9.127c10.019,6.919,21.278,7.353,33.207,7.811,10.776.41,22.989.881,36.939,5.481,5.778,1.91,11.78,5.605,18.736,9.92C194.842,480.951,217.707,495,255.973,495s61.292-14.123,78.118-24.428c6.907-4.24,12.872-7.9,18.489-9.758,13.949-4.613,26.163-5.072,36.939-5.481,11.928-.459,23.187-.893,33.206-7.812a34.584,34.584,0,0,0,10.218-11.16c3.434-5.84,3.348-9.919,6.572-12.771a18.971,18.971,0,0,1,5.753-2.629A134.893,134.893,0,0,0,476.02,408.71a48.344,48.344,0,0,0,13.019-10.193l.124-.149C498.389,388.5,500.708,376.867,496.926,366.6Zm-34.013,18.277c-20.745,11.458-34.533,10.23-45.259,17.137-9.114,5.865-3.72,18.513-10.342,23.076-8.134,5.617-32.177-.4-63.239,9.858-25.618,8.469-41.961,32.822-88.038,32.822s-62.036-24.3-88.076-32.884c-31-10.255-55.092-4.241-63.239-9.858-6.609-4.563-1.24-17.211-10.341-23.076-10.739-6.907-24.527-5.679-45.26-17.075-13.206-7.291-5.716-11.8-1.314-13.937,75.143-36.381,87.133-92.552,87.666-96.719.645-5.046,1.364-9.014-4.191-14.148-5.369-4.96-29.189-19.7-35.8-24.316-10.937-7.638-15.748-15.264-12.2-24.638,2.48-6.485,8.531-8.928,14.879-8.928a27.643,27.643,0,0,1,5.965.67c12,2.6,23.659,8.617,30.392,10.242a10.749,10.749,0,0,0,2.48.335c3.6,0,4.86-1.811,4.612-5.927-.768-13.132-2.628-38.725-.558-62.644,2.84-32.909,13.442-49.215,26.04-63.636,6.051-6.932,34.484-36.976,88.857-36.976s82.88,29.92,88.931,36.827c12.611,14.421,23.225,30.727,26.04,63.636,2.071,23.919.285,49.525-.558,62.644-.285,4.327,1.017,5.927,4.613,5.927a10.648,10.648,0,0,0,2.48-.335c6.745-1.624,18.4-7.638,30.4-10.242a27.641,27.641,0,0,1,5.964-.67c6.386,0,12.4,2.48,14.88,8.928,3.546,9.374-1.24,17-12.189,24.639-6.609,4.612-30.429,19.343-35.8,24.315-5.568,5.134-4.836,9.1-4.191,14.149.533,4.228,12.511,60.4,87.666,96.718C468.629,373.011,476.119,377.524,462.913,384.877Z" fill="white"></path></svg></a>
+<a href="https://www.tiktok.com/@who?lang=en" title="Follow WHO on TikTok" target="_blank" data-sf-ec-immutable><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+<path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" fill="white"></path></svg></a></div>
+</div>
+</div> <div class="col-md-4 copyright"> <span>
+©
+</span>
+2023
+<div class="sf-content-block content-block">
+<div><a href="/about/policies/terms-of-use">WHO</a></div>
+</div>
+</div> </div> </div> </div> </footer>   </div> <script>
+        window.__define = window.define;
+        window.__require = window.require;
+        window.define = undefined;
+        window.require = undefined;
+    </script> <script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js" type="text/javascript"></script><script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/responsivelylazy.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollToPlugin.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/parallax.min.js?package=WHO" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?package=WHO&amp;v=LTE1MTE3MDM0ODk%3d" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Navigation/Mvc/Scripts/LanguageSelector/language-selector.min.js?package=WHO&amp;v=MTQuMy44MDI2LjA%3d" type="text/javascript"></script><script src="/Mvc/Scripts/ContentBlock/content-block.min.js?package=WHO" type="text/javascript"></script><script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5803f964fe6c9599" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"b451c739-1861-47a2-8643-ec81c0daafa7"}
+</script><script type="text/javascript" src="/WebResource.axd?d=Oiw5o8i74rDb2VpVaCaMStPoJ1dBeSniQ1UcN-tajp7S6UQI4QFVCojlg1ewuf339ZIyq0NtnQlSiEw1RQXcWIVwl_-LxzVLlNCkT-5fM3qvVhZCKMRq6X6cWc42Aw4Db6sa87yi7j5Hio4wozQZMklgyIbXX4yGQn_Sh0nCPeRw8nypcGpUIdT0MqtRIOGgRLfw327mU3tc3-bA3UOOd_v176Q1&amp;t=638156688400000000">
+
+</script><input data-sf-role="en" type="hidden" value="https://www.who.int/news-room/fact-sheets/detail/physical-activity"><input data-sf-role="ar" type="hidden" value="https://www.who.int/ar/news-room/fact-sheets/detail/physical-activity"><input data-sf-role="zh" type="hidden" value="https://www.who.int/zh/news-room/fact-sheets/detail/physical-activity"><input data-sf-role="fr" type="hidden" value="https://www.who.int/fr/news-room/fact-sheets/detail/physical-activity"><input data-sf-role="ru" type="hidden" value="https://www.who.int/ru/news-room/fact-sheets/detail/physical-activity"><input data-sf-role="es" type="hidden" value="https://www.who.int/es/news-room/fact-sheets/detail/physical-activity"><script type="text/javascript">
+$(document).ready(function() {
+  var languageSelectorWrapper = $("#language-selector-item-details");
+
+  languageSelectorWrapper.html("");
+  var htmlLang = $("html").attr("lang");
+  
+  $("body").children("input[data-sf-role]").each(function (key, value) {
+    var itemUrl = $(this).attr('value');
+    var itemCulture = $(this).attr("data-sf-role");
+    var isDetailRootPage = itemUrl.match(/detail$/);
+    var isItemRootPage = itemUrl.match(/item$/);
+    var ishomePage = itemUrl.match(/home$/);
+    
+    var isCurrentCulture = $(this).attr("data-sf-role") == htmlLang;
+    var languageCulture = $(".sf-lang-selector.language-selector select option[value='" + itemCulture + "']").attr("value");
+    if (key <= 6) {  
+      if(languageCulture != undefined && isDetailRootPage == null && ishomePage == null && isItemRootPage == null && !isCurrentCulture) {
+        var languageDisplayName = $(".sf-lang-selector.language-selector select option[value='" + itemCulture + "']").text();
+        
+        var languageButtonWrapper = $("<div/>", {
+            "class": "button button-blue-border"
+        });
+        
+        languageButtonWrapper.appendTo(languageSelectorWrapper);
+        
+        $("<a/>", {
+          "class": "link",
+          text: languageDisplayName,
+          "href": itemUrl,
+          "data-language-variation": itemCulture
+        }).appendTo(languageButtonWrapper);
+       }
+    }
+  });
+});
+
+
+</script>  <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/lib/slicknav.min.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/lib/auto-complete.min.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/lib/match-height.min.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/lib/lazy.min.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/lib/modernizr-custom.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/lib/select2.full.min.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/accordion-footer-list.min.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/main.min.js?v=14.0.7729.22131"></script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/main-navigation.min.js?v=14.0.7729.22131"></script><script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/geo-navigation.min.js?v=14.0.7729.22131"></script>  <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/image-resolution.min.js?v=14.0.7729.22131"></script> <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "ItemPage",
+            "name": "Detail",
+            "description": ""
+            }
+        </script> <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script> <script type="text/javascript" src="/ResourcePackages/WHO/assets/dist/scripts/lib/picturefill.min.js?v=14.0.7729.22131"></script> <script>
+        window.define = window.__define;
+        window.require = window.__require;
+        window.__define = undefined;
+        window.__require = undefined;
+    </script> </body> </html>
